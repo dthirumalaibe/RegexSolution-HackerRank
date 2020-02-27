@@ -137,7 +137,7 @@
 ---
 
 ## Author Info
-> Snehal Bapu Mastud
+> SBM
 
 -[HackerRank](https://www.hackerrank.com/smastud0)
 
