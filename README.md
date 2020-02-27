@@ -137,6 +137,8 @@
 ---
 
 ## Author Info
+> Snehal Bapu Mastud
+
 -[HackerRank](https://www.hackerrank.com/smastud0)
 
 -[Linkedln](https://www.linkedin.com/in/snehal-mastud-23a64716b/)
